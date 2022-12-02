@@ -1,0 +1,31 @@
+p {
+    color: rgb(163, 177, 177);
+
+    }
+h1 {
+        text-decoration: underline ;
+        background-color: blueviolet;
+        color: crimson;
+
+    }
+
+#stafftable{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 100%;
+    text-align: center;
+}
+#stafftable td,#stafftable th{
+    border: 2px solid yellow;
+    padding: 10px;
+}
+
+    /* PARTICULAR LINE WANTS BE TO COLORED OR TO BE DIFFRENT ,U HAVE TO USE class attribute in index  */
+.information{
+    color: deeppink;
+    font-style: italic;
+}  
+ /*DISPLAY PICTURE  u hvae add class  in img line like (class="dp")*/
+.dp{
+    width: 300px;
+
+}
