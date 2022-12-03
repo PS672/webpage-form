@@ -1,5 +1,5 @@
 p {
-    color: rgb(163, 177, 177);
+    color: rgb(88, 224, 224);
 
     }
 h1 {
@@ -13,6 +13,9 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 100%;
     text-align: center;
+}
+#stafftable th{
+    background-color: chartreuse;
 }
 #stafftable td,#stafftable th{
     border: 2px solid yellow;
